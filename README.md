@@ -14,7 +14,7 @@ Developed by **Carlos Nardi**.
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?logo=buy-me-a-coffee)](https://buymeacoffee.com/cnardi)
 
 <p align="center">
-  <img src="ModbusScop%20Master%20Window.png" alt="ModbusScop main window" width="460">
+  <img src="ModbusScop%20Master%20Window.png" alt="ModbusScop main window" width="614">
 </p>
 
 ## Features
