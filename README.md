@@ -43,8 +43,8 @@ Developed by **Carlos Nardi**.
 ## Download & run
 
 1. Go to the [**Releases**](../../releases) page and download the latest
-   `ModbusScop` archive for Windows.
-2. Unzip it anywhere and run **`ModbusScop.exe`** — no installation required.
+   `ModbusScopMaster` archive for Windows.
+2. Unzip it anywhere and run **`ModbusScopMaster.exe`** — no installation required.
 
 **Requirements:** Windows 10/11 (64-bit).
 
