@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="modbusscop-logo-black.png" alt="ModbusScop Master" width="520">
+  <img src="MODBUSScopMaster-AnimatedSplashScreen.gif" alt="ModbusScop Master" width="900">
 </p>
 
 **ModbusScop Master** is a free **Modbus master / polling and testing tool** with
