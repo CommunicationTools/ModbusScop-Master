@@ -51,6 +51,13 @@ ModbusScop Master is organized as a tree: **Channels → RTUs → Maps**.
 - **Dockable poll windows** — one per map, each with its own function code,
   address, quantity, and scan rate; the unit id comes from the parent RTU. Arrange
   and dock them however you like.
+- **Charts** — **View → Charts** opens a tabbed chart window: right-click or drag a
+  poll-window row header (or a cell) to trend registers in their display format
+  (Signed, Float32, Int32 …) on up to three Y axes, and coils / discrete inputs as
+  stacked logic-analyzer lanes. Sample every poll or only on change, Live follow
+  or free pan/zoom, two measurement cursors, hover readout, continuous CSV
+  recording with rotation, CSV export, and chart definitions saved with the
+  workspace.
 - **Rich data display** — per-cell formats (Signed / Unsigned / Hex / Binary,
   plus 32- and 64-bit integers, floats, and doubles with selectable byte order),
   Base-1 register addressing, per-cell aliases, and a per-bit editor.
